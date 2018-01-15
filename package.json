@@ -1,0 +1,11 @@
+{
+  "name": "tempo-detector",
+  "version": "1.0.0",
+  "description": "A package that helps you figure out the tempo based on the interval between function calls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joey Farina",
+  "license": "MIT"
+}
